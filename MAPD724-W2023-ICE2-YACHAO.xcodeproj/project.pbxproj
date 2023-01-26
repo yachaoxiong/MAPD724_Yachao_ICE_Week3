@@ -75,6 +75,7 @@
 		8F7CDA5A2981F51400E27DC2 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7CDA582981F51400E27DC2 /* Player.swift */; };
 		8F7CDA5C2982116300E27DC2 /* Island.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7CDA5B2982116300E27DC2 /* Island.swift */; };
 		8F7CDA5E2982122000E27DC2 /* Layer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7CDA5D2982122000E27DC2 /* Layer.swift */; };
+		8F7CDA602982167C00E27DC2 /* Cloud.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7CDA5F2982167C00E27DC2 /* Cloud.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -147,6 +148,7 @@
 		8F7CDA582981F51400E27DC2 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		8F7CDA5B2982116300E27DC2 /* Island.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Island.swift; sourceTree = "<group>"; };
 		8F7CDA5D2982122000E27DC2 /* Layer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layer.swift; sourceTree = "<group>"; };
+		8F7CDA5F2982167C00E27DC2 /* Cloud.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cloud.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -303,6 +305,7 @@
 				8F7CDA572981F51400E27DC2 /* Ocean.swift */,
 				8F7CDA582981F51400E27DC2 /* Player.swift */,
 				8F7CDA5B2982116300E27DC2 /* Island.swift */,
+				8F7CDA5F2982167C00E27DC2 /* Cloud.swift */,
 			);
 			path = GameObject;
 			sourceTree = "<group>";
@@ -439,6 +442,7 @@
 				8F7CDA5C2982116300E27DC2 /* Island.swift in Sources */,
 				8F7CD9D02981F4C000E27DC2 /* GameViewController.swift in Sources */,
 				8F7CD9C82981F4C000E27DC2 /* AppDelegate.swift in Sources */,
+				8F7CDA602982167C00E27DC2 /* Cloud.swift in Sources */,
 				8F7CDA5A2981F51400E27DC2 /* Player.swift in Sources */,
 				8F7CDA5E2982122000E27DC2 /* Layer.swift in Sources */,
 				8F7CDA592981F51400E27DC2 /* Ocean.swift in Sources */,
